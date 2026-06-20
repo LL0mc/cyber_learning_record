@@ -1,6 +1,6 @@
 # Cyber Learning Record
 
-自学记录。
+AGI相关的自学记录。
 
 ---
 
